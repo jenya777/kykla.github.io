@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+static.best-gooods.ru	TRUE	/	FALSE	1999999999	ipp_uid2	Iw7rb97eZ3ehIJq3/++CjybVRKqsZqrnJTwINIA==
+static.best-gooods.ru	TRUE	/	FALSE	1999999999	ipp_uid1	1512642955154
+static.best-gooods.ru	TRUE	/	FALSE	1999999999	rerf	AAAAAFopGYtZg3kqAwspAg==
+best-gooods.ru	TRUE	/	FALSE	1999999999	ipp_uid2	0sTqKNOxaGOPA51a/Uf9pzKJvInSDD9anmtUkdQ==
+best-gooods.ru	TRUE	/	FALSE	1999999999	ipp_uid1	1512642976997
+best-gooods.ru	TRUE	/	FALSE	1999999999	rerf	AAAAAFopGaEDRc1+A1TvAg==
+

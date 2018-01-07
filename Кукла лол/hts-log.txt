@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Dec 2017 13:36:01 at http://lol-belarus.ru +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%P%h%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://lol-belarus.ru -O1 "C:\Users\User\Desktop\Кукла лол" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:36:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js (from lol-belarus.ru/)
+13:37:59	Warning: 	Retry after error -4 (Incorrect length (287166 Bytes, 392473 expected)) at link static.best-gooods.ru/js/jquery.js (from lol-belarus.ru/)
+13:38:03	Error: 	"Not Found" (404) at link lol-belarus.ru/fonts/BloggerSans-Bold.woff2 (from lol-belarus.ru/css/settings.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/fonts/BloggerSans-Bold.woff (from lol-belarus.ru/css/settings.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/fonts/BloggerSans-Bold.otf (from lol-belarus.ru/css/settings.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/img/but-sl.png (from lol-belarus.ru/css/slick.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/img/top-bg-640.jpg (from lol-belarus.ru/css/main.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/img/foot-bg-640.jpg (from lol-belarus.ru/css/main.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/img/top-bg-320.jpg (from lol-belarus.ru/css/main.css)
+13:38:04	Error: 	"Not Found" (404) at link lol-belarus.ru/img/foot-bg-320.jpg (from lol-belarus.ru/css/main.css)
+13:38:04	Error: 	Can not remove old file /ajax/libs/jquery/2.1.3/jquery.min.js
+13:38:08	Error: 	"Not Found" (404) at link lol-belarus.ru/get (from https://mc.yandex.ru/metrika/watch.js)
+13:38:08	Error: 	"Not Found" (404) at link lol-belarus.ru/path (from https://mc.yandex.ru/metrika/watch.js)
+13:38:08	Error: 	"Not Found" (404) at link lol-belarus.ru/banners.adfox.ru/ (from https://mc.yandex.ru/metrika/watch.js)
+13:38:08	Error: 	"Not Found" (404) at link lol-belarus.ru/awaps.yandex.net/ (from https://mc.yandex.ru/metrika/watch.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 7 seconds : 93 links scanned, 76 files written (3143060 bytes overall) [3262331 bytes received at 25687 bytes/sec]
+(13 errors, 2 warnings, 0 messages)
